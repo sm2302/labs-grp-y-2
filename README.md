@@ -19,12 +19,12 @@ Each group member should fill in their respective parts.
 
 ### Group Member 1
 
-- Name:
-- Student ID:
-- Favourite book:
-- Favourite number:
-- Favourite mathematical equation: (bonus points for figuring out $\LaTeX$!)
-- Insert an inspiring photo:
+- Name: Ang Woan Yean
+- Student ID: 19B2068
+- Favourite book: ...
+- Favourite number: 8
+- Favourite mathematical equation: E=mc^2
+- Insert an inspiring photo: ![Coffie Bae](https://user-images.githubusercontent.com/110547502/187019987-790ce9be-1950-42f8-ad37-19e2051844d8.jpeg)
 
 ### Group Member 2
 
