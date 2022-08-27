@@ -21,7 +21,7 @@ Each group member should fill in their respective parts.
 
 - Name: Ang Woan Yean
 - Student ID: 19B2068
-- Favourite book: ...
+- Favourite book: -
 - Favourite number: 8
 - Favourite mathematical equation: E=mc^2
 - Insert an inspiring photo: ![Coffie Bae](https://user-images.githubusercontent.com/110547502/187019987-790ce9be-1950-42f8-ad37-19e2051844d8.jpeg)
