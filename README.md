@@ -35,23 +35,6 @@ Each group member should fill in their respective parts.
 - Favourite mathematical equation: y=mx+c
 - Insert an inspiring photo: ![WhatsApp Image 2022-08-27 at 3 27 49 PM](https://user-images.githubusercontent.com/110475079/187020045-4f32de43-22ea-487b-8f6a-fc51c82bf888.jpeg)
 
-### Group Member 3
-
-- Name:
-- Student ID:
-- Favourite book:
-- Favourite number:
-- Favourite mathematical equation: (bonus points for figuring out $\LaTeX$!)
-- Insert an inspiring photo:
-
-### Group Member 4
-
-- Name:
-- Student ID:
-- Favourite book:
-- Favourite number:
-- Favourite mathematical equation: (bonus points for figuring out $\LaTeX$!)
-- Insert an inspiring photo:
 
 ## Collaborative Work
 
