@@ -28,12 +28,12 @@ Each group member should fill in their respective parts.
 
 ### Group Member 2
 
-- Name:
-- Student ID:
-- Favourite book:
-- Favourite number:
-- Favourite mathematical equation: (bonus points for figuring out $\LaTeX$!)
-- Insert an inspiring photo:
+- Name: Soon Chin Yuen
+- Student ID: 19B2155
+- Favourite book: -
+- Favourite number: 8
+- Favourite mathematical equation: y=mx+c
+- Insert an inspiring photo: ![alt text](image.jpg)
 
 ### Group Member 3
 
