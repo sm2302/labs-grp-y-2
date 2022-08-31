@@ -99,9 +99,7 @@ dev.off()
 
 In addition, answer the following question:
 
-> What is the purpose of the arguments `width` and `height` in the `ggsave()` function?
-Plot size in units ("in", "cm", "mm", or "px"). If not supplied, uses the size of current graphics device.
-Dimensions of the graph.
+> The purpose of the arguments `width` and `height` in the `ggsave()` function is the dimensions of the graph. These plot size in units can be in "in", "cm", "mm", or "px". If units are not supplied, it uses the size of current graphics device.
 
 
 This section of the Markdown file should be formatted nicely so that code is formatted as code, headings as headings, etc. Use the Markdown Cheat Sheet to help you out.
